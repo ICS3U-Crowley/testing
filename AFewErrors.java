@@ -26,7 +26,7 @@ class AFewErrors
         valeur = console.next();
 
         //
-        // traitement des données (on va le faire directement dans l'affichage)
+        // traitement des données (on va le faire directement dans la sortie)
         //
 
         // sortie
