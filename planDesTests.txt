@@ -1,0 +1,28 @@
+Description des cas d'usage :
+(p. ex. types de valeurs, intervalles des valeurs acceptables)
+
+
+
+
+
+
+
+Cas de test spécifiques qu'on va appliquer :
+
+Cas    Résultat attendu
+---    ----------------
+
+
+
+
+
+
+Documentation des échecs :
+
+Cas   Valeur obtenue
+---   --------------
+
+
+
+
+
